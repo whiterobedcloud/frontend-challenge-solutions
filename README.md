@@ -5,7 +5,7 @@ Each project has the basic solution as required, plus an improved version where 
 
 ## Projects
 - **QR Code Component**
-  - [Solution](/qr-code-component-main/solution)
+  - [Solution](challenges/qr-code-component-main)
 
 
 ---
